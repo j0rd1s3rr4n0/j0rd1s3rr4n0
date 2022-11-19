@@ -1,4 +1,26 @@
+<!--
+                                                                                                                                              
+         ,---._         ,--. 
+       .-- -.' \    ,--/  /| 
+       |    |   :,---,': / ' 
+       :    ;   |:   : '/ /  
+       :        ||   '   ,   
+       |    :   :'   |  /    
+       :         |   ;  ;    
+       |    ;   |:   '   \   
+   ___ l         |   |    '  
+ /    /\    J   :'   : |.  \ 
+/  ../  `..-    ,|   | '_\.' 
+\    \         ; '   : |     
+ \    \      ,'  ;   |,'     
+  "---....--'    '---'                                        
+
+   ¿Qué intentas 🤪?
+   
+   ----------------------------------------------------------
 <img align="center" width="200" src="https://avatars.githubusercontent.com/u/44474715?v=4" style="border-radius:50rem;" />
+-->
+
 # 💫 About Me:
 👨🏻‍💻 Passionate about technology and cybersecurity, I like to learn and improve myself.<br>🛡️ Studying how to improve cybersecurity<br>🫥 Hidden knowledge
 
