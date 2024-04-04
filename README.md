@@ -29,7 +29,7 @@
 - Discord: [Parthenoun#8015](https://discord.gg/Parthenoun#8015)
 - LinkedIn: [jordiserrano](https://linkedin.com/in/jordiserrano)
 - Twitter: [@jordiiiserrano](https://twitter.com/jordiiiserrano)
-- Instagram: [jordi_serrano](https://instagram.com/jordi_serrano)
+- Instagram: [j0rd1s3rr4n](https://instagram.com/j0rd1s3rr4n)
 
 Feel free to connect and collaborate! 🚀
 
