@@ -138,4 +138,5 @@ TEST HIDDEN CONTENT
 -->
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/jordiserrano.png" alt="TryHackMe">
+<a href="https://tryhackme.com/r/p/jordiserrano"><img src="https://tryhackme-badges.s3.amazonaws.com/jordiserrano.png" alt="TryHackMe"> </a>
+<a href="https://app.hackthebox.com/profile/429263"><img src="https://www.hackthebox.com/badge/image/429263" alt="HackTheBox"></a>
