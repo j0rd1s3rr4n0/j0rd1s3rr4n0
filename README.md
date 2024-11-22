@@ -140,3 +140,6 @@ TEST HIDDEN CONTENT
 
 <a href="https://tryhackme.com/r/p/jordiserrano"><img src="https://tryhackme-badges.s3.amazonaws.com/jordiserrano.png" alt="TryHackMe"> </a>
 <a href="https://app.hackthebox.com/profile/429263"><img src="https://www.hackthebox.com/badge/image/429263" alt="HackTheBox"></a>
+
+
+[![committers.top badge](https://user-badge.committers.top/spain_private/j0rd1s3rr4n0.svg)](https://user-badge.committers.top/spain_private/j0rd1s3rr4n0)
